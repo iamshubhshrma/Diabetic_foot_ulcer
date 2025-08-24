@@ -48,8 +48,6 @@ The model was trained for 15 epochs and achieved strong performance on the valid
 
 The final trained model is saved as `model.keras`.
 
-![Sample Prediction from Notebook](https://i.imgur.com/gKz7e2K.png)
-*A sample prediction correctly classifying an image as 'Diabetic'.*
 
 ---
 
@@ -65,4 +63,4 @@ You'll need Python and pip installed.
 
 1. Clone the repo:
    ```sh
-   git clone [https://github.com/your_username/diabetic-foot-ulcer-detection.git](https://github.com/your_username/diabetic-foot-ulcer-detection.git)
+   git clone https://github.com/iamshubhshrma/Diabetic_foot_ulcer.git
