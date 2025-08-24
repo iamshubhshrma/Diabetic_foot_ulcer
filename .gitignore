@@ -208,4 +208,11 @@ __marimo__/
 
 
 # Ignore Windows Zone Identifier files
-*:Zone.Identifier
+Zone.Identifier
+
+# Ignore the dataset directory
+ThermoDataBase/
+
+# Ignore saved Keras/TensorFlow model files
+*.keras
+*.h5
